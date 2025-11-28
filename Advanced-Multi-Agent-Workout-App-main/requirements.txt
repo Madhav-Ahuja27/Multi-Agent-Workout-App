@@ -1,10 +1,10 @@
-# Core Frameworks
+# Core Frameworks for Streamlit and LLM Orchestration
 streamlit
 langchain
 langchain-community
-langflow-sdk
+langflow  # CORRECTED: This replaces the non-existent 'langflow-sdk'
 
-# LLM Provider (Assuming OpenAI for standard LLM calls)
+# LLM Provider
 openai
 
 # Vector Database (for RAG)
