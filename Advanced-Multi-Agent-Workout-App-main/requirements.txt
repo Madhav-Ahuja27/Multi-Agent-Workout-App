@@ -1,0 +1,17 @@
+# Core Frameworks
+streamlit
+langchain
+langchain-community
+langflow-sdk
+
+# LLM Provider (Assuming OpenAI for standard LLM calls)
+openai
+
+# Vector Database (for RAG)
+astrapy
+pydantic
+
+# Data Handling & Utility
+python-dotenv
+pandas
+numpy
