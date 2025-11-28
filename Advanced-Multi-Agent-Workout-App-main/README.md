@@ -1,7 +1,5 @@
 # 🏋️ Multi-Agent AI Workout & Nutrition Planner
 
-### [Short, one-sentence description of the project]
-
 This project demonstrates an advanced, multi-agent LLM architecture designed to provide personalized fitness and nutrition planning grounded in the user's specific data. Built using LangFlow for orchestration and Streamlit for the user interface.
 
 ---
